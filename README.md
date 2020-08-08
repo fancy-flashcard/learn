@@ -15,7 +15,7 @@ See https://deno.land/x/learn/flash-card-provider/test-flash-card-provider.ts fi
 
 ### Conversation Based Learning
 
-See https://deno.land/x/learn/learning-conversation-provider/test-learning-conversation-provider.ts file
+See https://deno.land/x/learn/conversation-provider/test-conversation-provider.ts file
 
 
 ## Test it via command line
