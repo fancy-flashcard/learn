@@ -2,7 +2,7 @@ import { assertEquals } from "https://deno.land/std/testing/asserts.ts";
 import { FlashCardProvider } from "./flashcardprovider.ts";
 import { ICard } from "./types.ts";
 
-Deno.test("processHostIds", async (): Promise<void> => {
+Deno.test("test getNextCard", async (): Promise<void> => {
 
     const flashCardProvider = new FlashCardProvider()
     const actualNextCard: ICard = await flashCardProvider.getNextCard()

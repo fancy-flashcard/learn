@@ -10,10 +10,8 @@ This module uses a combination of supervised and unsupervised machine learning t
 
 ## Usage example for your code
 
-```
-see https://deno.land/x/learn/test.ts file
+See https://deno.land/x/learn/test.ts file
 
-```
 
 ## Test it via command line
 ```
