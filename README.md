@@ -11,44 +11,44 @@ This module uses a combination of supervised and unsupervised machine learning t
   
   
 ## Usage examples for your code
-### Flash Card Based Learning
+**Flash Card Based Learning**
 
 See https://deno.land/x/learn/flash-card-provider/test-flash-card-provider.ts file
 
-### AI Conversation Based Learning
+**AI Conversation Based Learning**
 
 See https://deno.land/x/learn/conversation-provider/test-conversation-provider.ts file
 
-### Human Tutor Based Learning
-
-See https://deno.land/x/learn/tutor-provider/test-tutor-provider.ts file
-
-### Task Based Learning - aka Learning by Doing
+**Task Based Learning - aka Learning by Doing**
 
 See https://deno.land/x/learn/task-provider/test-task-provider.ts file
-  
+
+**Human Tutor Based Learning**
+
+See https://deno.land/x/learn/tutor-provider/test-tutor-provider.ts file
+ 
 ---
   
   
 ## Test it via command line
-### Flash Card Based Learning
+**Flash Card Based Learning**
 ```
 deno test https://deno.land/x/learn/flash-card-provider/test-flash-card-provider.ts
 ```
 
-### AI Conversation Based Learning
+**AI Conversation Based Learning**
 ```
 deno test https://deno.land/x/learn/conversation-provider/test-conversation-provider.ts
 ```
 
-### Human Tutor Based Learning
-```
-deno test https://deno.land/x/learn/tutor-provider/test-tutor-provider.ts
-```
-
-### Task Based Learning - aka Learning by Doing
+**Task Based Learning - aka Learning by Doing**
 ```
 deno test https://deno.land/x/learn/task-provider/test-task-provider.ts
+```
+
+**Human Tutor Based Learning**
+```
+deno test https://deno.land/x/learn/tutor-provider/test-tutor-provider.ts
 ```
   
 ---
