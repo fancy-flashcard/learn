@@ -13,9 +13,13 @@ This module uses a combination of supervised and unsupervised machine learning t
 
 See https://deno.land/x/learn/flash-card-provider/test-flash-card-provider.ts file
 
-### Conversation Based Learning
+### AI Conversation Based Learning
 
 See https://deno.land/x/learn/conversation-provider/test-conversation-provider.ts file
+
+### Human Tutor Based Learning
+
+See https://deno.land/x/learn/tutor-provider/test-tutor-provider.ts file
 
 
 ## Test it via command line
@@ -24,9 +28,14 @@ See https://deno.land/x/learn/conversation-provider/test-conversation-provider.t
 deno test https://deno.land/x/learn/flash-card-provider/test-flash-card-provider.ts
 ```
 
-### Conversation Based Learning
+### AI Conversation Based Learning
 ```
 deno test https://deno.land/x/learn/conversation-provider/conversation-provider.ts
+```
+
+### Human Tutor Based Learning
+```
+deno test https://deno.land/x/learn/tutor-provider/tutor-provider.ts
 ```
 
 ## Contributions are welcome
