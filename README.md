@@ -1,4 +1,4 @@
-  
+# Learn  
 
 This deno module is inspired by an [education project](https://github.com/fancy-flashcard/ffc) of 
 [DHBW Mannheim](https://www.mannheim.dhbw.de/startseite). It optimizes learning processes.
@@ -33,3 +33,9 @@ deno test https://deno.land/x/learn/conversation-provider/conversation-provider.
 ```
 Feel free to create issues and pull requests. 
 ```
+
+## Support our Open Source Contributions  
+
+If you like our work please consider downloading the brave browser via our promotion link: [https://brave.com/fan464](https://brave.com/fan464).  
+
+![![](https://brave.com/)](https://brave.com/wp-content/uploads/2019/01/logotype-full-color.svg)
