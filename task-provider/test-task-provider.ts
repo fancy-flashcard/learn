@@ -2,7 +2,7 @@ import { assertEquals } from "https://deno.land/std/testing/asserts.ts";
 import { TaskProvider } from "./task-provider.ts";
 import { ITask } from "../types.ts";
 
-Deno.test("test getTutor", async (): Promise<void> => {
+Deno.test("test getTaskRelatedToQuestion", async (): Promise<void> => {
 
     const questionId: string  = '4711'
     const taskProvider = new TaskProvider()
