@@ -4,8 +4,8 @@ This deno module is inspired by an [education project](https://github.com/fancy-
 [DHBW Mannheim](https://www.mannheim.dhbw.de/startseite).   
    
 It optimizes learning processes for humans by offering 
-1. **flash card based learning** 
-2. **conversation based learning** 
+1. **[flash card based learning](https://fancy-flashcard.github.io/ffc)** 
+2. **[conversation based learning](https://fancy-chats.com:3443/)** 
 3. **task based learning** 
 4. **tutor based learning** 
 
