@@ -3,13 +3,13 @@
 This deno module is inspired by an [education project](https://github.com/fancy-flashcard/ffc) of 
 [DHBW Mannheim](https://www.mannheim.dhbw.de/startseite).   
    
-It optimizes learning processes by offering 
+It optimizes learning processes for humans by offering 
 1. **flash card based learning** 
 2. **conversation based learning** 
 3. **task based learning** 
 4. **tutor based learning** 
 
-This module uses a combination of supervised and unsupervised machine learning to optimize human learning processes.
+In order to continuously optimize itself this module uses a combination of supervised and unsupervised machine learning.
   
 ---
   
