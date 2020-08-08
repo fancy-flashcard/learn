@@ -9,3 +9,10 @@ export interface ICard {
     t: number;
     r: number;
   }
+
+  export interface ITask {
+    title: string
+    description: string
+    fundingInEth: number
+    status: string
+  }

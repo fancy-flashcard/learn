@@ -8,7 +8,7 @@ One of its key features is to optimize flash card based and conversation based l
 This module uses a combination of supervised and unsupervised machine learning to optimize human learning processes.
 
 
-## Usage example for your code
+## Usage examples for your code
 ### Flash Card Based Learning
 
 See https://deno.land/x/learn/flash-card-provider/test-flash-card-provider.ts file
@@ -21,6 +21,10 @@ See https://deno.land/x/learn/conversation-provider/test-conversation-provider.t
 
 See https://deno.land/x/learn/tutor-provider/test-tutor-provider.ts file
 
+### Task Based Learning - aka Learning by Doing
+
+See https://deno.land/x/learn/task-provider/test-task-provider.ts file
+
 
 ## Test it via command line
 ### Flash Card Based Learning
@@ -30,18 +34,22 @@ deno test https://deno.land/x/learn/flash-card-provider/test-flash-card-provider
 
 ### AI Conversation Based Learning
 ```
-deno test https://deno.land/x/learn/conversation-provider/conversation-provider.ts
+deno test https://deno.land/x/learn/conversation-provider/test-conversation-provider.ts
 ```
 
 ### Human Tutor Based Learning
 ```
-deno test https://deno.land/x/learn/tutor-provider/tutor-provider.ts
+deno test https://deno.land/x/learn/tutor-provider/test-tutor-provider.ts
+```
+
+### Task Based Learning - aka Learning by Doing
+```
+deno test https://deno.land/x/learn/task-provider/test-task-provider.ts
 ```
 
 ## Contributions are welcome
-```
 Feel free to create issues and pull requests. 
-```
+
 
 ## Support our Open Source Contributions  
 
