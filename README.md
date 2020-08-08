@@ -1,22 +1,21 @@
 # Learn Module
 
+This deno module is inspired by an [education project](https://github.com/fancy-flashcard/ffc) of 
+[DHBW Mannheim](https://www.mannheim.dhbw.de/startseite). It optimizes leaning processes.
+
 ## Usage example for your code
 
 ```
-
-// import { FlashCardProvider } from "https://deno.land/x/learn/flashcardprovider.ts"
-import { FlashCardProvider } from "https://raw.githubusercontent.com/michael-spengler/learn/master/flashcardprovider.ts"
-
-const card = FlashCardProvider.getNextCard()
-console.log(`The name of the card is ${card.name}`)
+see test.ts file
 
 ```
 
 ## Test it via command line
 ```
-<!-- deno run --allow-net https://deno.land/x/learn/test-it.ts -->
-deno run --allow-net https://raw.githubusercontent.com/michael-spengler/learn/master/test-it.ts
+deno test test.ts
 ```
 
 ## Contributions are welcome
-Feel free to create a pull request if you would like to improve things. 
+```
+Feel free to create issues and pull requests. 
+```

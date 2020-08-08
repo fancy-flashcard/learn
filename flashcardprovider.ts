@@ -1,7 +1,12 @@
+import { ICard } from "./types.ts";
+
 export class FlashCardProvider {
 
-    public static getNextCard(): any {
-        return { name: "tbd" }
+    public getNextCard(): ICard {
+        return {  
+            id: 0,
+            q: "How can we establish cozy ecosystems on additional planets like mars?",
+            a: "Go with the flow."
+        }
     }
-
 }
